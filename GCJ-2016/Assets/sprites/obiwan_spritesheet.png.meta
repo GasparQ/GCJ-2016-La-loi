@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 1a53c7973a2a36641b0a147fd3e07bd6
+timeCreated: 1462617789
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: obiwan_spritesheet_0
+    21300002: obiwan_spritesheet_1
+    21300004: obiwan_spritesheet_2
+    21300006: obiwan_spritesheet_4
+    21300008: obiwan_spritesheet_6
+    21300010: obiwan_spritesheet_8
+    21300012: obiwan_spritesheet_10
+    21300014: obiwan_spritesheet_12
+    21300016: obiwan_spritesheet_14
+    21300018: obiwan_spritesheet_15
+    21300020: obiwan_spritesheet_16
+    21300022: obiwan_spritesheet_17
+    21300024: obiwan_spritesheet_18
+    21300026: obiwan_spritesheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: obiwan_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 8}
+        - {x: -29.5, y: -3}
+        - {x: -29.5, y: -43}
+        - {x: 29.5, y: -43}
+        - {x: 29.5, y: -12}
+        - {x: -5.5, y: 8}
+    - name: obiwan_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 8}
+        - {x: -29.5, y: -3}
+        - {x: -29.5, y: -43}
+        - {x: 29.5, y: -43}
+        - {x: 29.5, y: -12}
+        - {x: -5.5, y: 8}
+    - name: obiwan_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -26, y: 35}
+        - {x: -26, y: -43}
+        - {x: 3, y: -43}
+        - {x: 3, y: 16}
+        - {x: -11, y: 40}
+      - - {x: 2, y: 39}
+        - {x: -1, y: 39}
+        - {x: -2, y: 36}
+        - {x: 8, y: -29}
+        - {x: 10, y: -30}
+        - {x: 23, y: -30}
+        - {x: 26, y: -22}
+        - {x: 26, y: 24}
+        - {x: 10, y: 37}
+    - name: obiwan_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 40}
+        - {x: -25.5, y: 35}
+        - {x: -25.5, y: -43}
+        - {x: 3.5, y: -43}
+        - {x: 3.5, y: 16}
+        - {x: -10.5, y: 40}
+      - - {x: 11.5, y: 39}
+        - {x: -1.5, y: 39}
+        - {x: -1.5, y: 11}
+        - {x: 2.5, y: -30}
+        - {x: 14.5, y: -30}
+        - {x: 16.5, y: -29}
+        - {x: 25.5, y: -24}
+        - {x: 25.5, y: 29}
+        - {x: 24.5, y: 33}
+    - name: obiwan_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -26, y: 35}
+        - {x: -26, y: -43}
+        - {x: 3, y: -43}
+        - {x: 3, y: 16}
+        - {x: -11, y: 40}
+      - - {x: 2, y: 39}
+        - {x: -1, y: 39}
+        - {x: -2, y: 36}
+        - {x: 8, y: -29}
+        - {x: 10, y: -30}
+        - {x: 23, y: -30}
+        - {x: 26, y: -22}
+        - {x: 26, y: 24}
+        - {x: 10, y: 37}
+    - name: obiwan_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 5
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 32.5}
+        - {x: -29.5, y: -18.5}
+        - {x: -27.5, y: -42.5}
+        - {x: 4.5, y: -42.5}
+        - {x: 4.5, y: 20.5}
+        - {x: -22.5, y: 32.5}
+      - - {x: 19.5, y: 27.5}
+        - {x: 17.5, y: 24.5}
+        - {x: 19.5, y: 20.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 25.5, y: -26.5}
+        - {x: 29.5, y: -23.5}
+        - {x: 29.5, y: 27.5}
+    - name: obiwan_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 33}
+        - {x: -30, y: 30}
+        - {x: -30, y: 26}
+        - {x: -24, y: 21}
+        - {x: -30, y: -3}
+        - {x: -30, y: -32}
+        - {x: -26, y: -42}
+        - {x: 5, y: -42}
+        - {x: 5, y: 20}
+        - {x: -26, y: 33}
+      - - {x: 20, y: 28}
+        - {x: 18, y: 25}
+        - {x: 20, y: 21}
+        - {x: 19, y: -25}
+        - {x: 23, y: -26}
+        - {x: 26, y: -26}
+        - {x: 30, y: -23}
+        - {x: 30, y: 28}
+    - name: obiwan_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 6
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 25}
+        - {x: -18.5, y: -13}
+        - {x: -10.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 11}
+        - {x: -5.5, y: 25}
+    - name: obiwan_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 7
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 25.5}
+        - {x: -18.5, y: -12.5}
+        - {x: -10.5, y: -41.5}
+        - {x: 18.5, y: -41.5}
+        - {x: 18.5, y: 11.5}
+        - {x: -5.5, y: 25.5}
+    - name: obiwan_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 7
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -17.5, y: -10.5}
+        - {x: -13.5, y: -33.5}
+        - {x: -9.5, y: -41.5}
+        - {x: 17.5, y: -41.5}
+        - {x: 17.5, y: 6.5}
+        - {x: -8.5, y: 23.5}
+    - name: obiwan_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 6
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23}
+        - {x: -18, y: -18}
+        - {x: -12, y: -42}
+        - {x: 18, y: -42}
+        - {x: 18, y: 6}
+        - {x: -9, y: 23}
+    - name: obiwan_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 7
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24.5}
+        - {x: -18, y: -12.5}
+        - {x: -14, y: -37.5}
+        - {x: -12, y: -41.5}
+        - {x: 18, y: -41.5}
+        - {x: 18, y: 7.5}
+        - {x: -9, y: 24.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

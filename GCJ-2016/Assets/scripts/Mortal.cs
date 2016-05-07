@@ -1,0 +1,4 @@
+﻿interface Mortal
+{
+    void Die();
+}

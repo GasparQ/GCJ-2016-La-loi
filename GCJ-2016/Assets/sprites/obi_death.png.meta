@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 95dc4458f078aed4da371464414b1f95
+timeCreated: 1462635692
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: obi_death_0
+    21300002: obi_death_1
+    21300004: obi_death_2
+    21300006: obi_death_3
+    21300008: obi_death_4
+    21300010: obi_death_5
+    21300012: obi_death_6
+    21300014: obi_death_7
+    21300016: obi_death_8
+    21300018: obi_death_9
+    21300020: obi_death_10
+    21300022: obi_death_11
+    21300024: obi_death_12
+    21300026: obi_death_13
+    21300028: obi_death_14
+    21300030: obi_death_15
+    21300032: obi_death_16
+    21300034: obi_death_17
+    21300036: obi_death_18
+    21300038: obi_death_19
+    21300040: obi_death_20
+    21300042: obi_death_21
+    21300044: obi_death_22
+    21300046: obi_death_23
+    21300048: obi_death_24
+    21300050: obi_death_25
+    21300052: obi_death_26
+    21300054: obi_death_27
+    21300056: obi_death_28
+    21300058: obi_death_29
+    21300060: obi_death_30
+    21300062: obi_death_31
+    21300064: obi_death_32
+    21300066: obi_death_33
+    21300068: obi_death_34
+    21300070: obi_death_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: obi_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 30}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: 30}
+    - name: obi_death_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 30}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: 30}
+    - name: obi_death_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 30}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: 30}
+    - name: obi_death_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 31}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -19}
+        - {x: 12.5, y: 31}
+    - name: obi_death_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 31}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -19}
+        - {x: 12.5, y: 31}
+    - name: obi_death_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 31}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -19}
+        - {x: 12.5, y: 31}
+    - name: obi_death_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -35}
+        - {x: 16.5, y: -2}
+        - {x: 14.5, y: 31}
+        - {x: 2.5, y: 31}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -35}
+    - name: obi_death_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -35}
+        - {x: 16.5, y: -2}
+        - {x: 14.5, y: 31}
+        - {x: 2.5, y: 31}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -35}
+    - name: obi_death_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -35}
+        - {x: 16.5, y: -2}
+        - {x: 14.5, y: 31}
+        - {x: 2.5, y: 31}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -35}
+    - name: obi_death_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -18}
+        - {x: 13.5, y: 31}
+        - {x: 2.5, y: 31}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+    - name: obi_death_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -18}
+        - {x: 13.5, y: 31}
+        - {x: 2.5, y: 31}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+    - name: obi_death_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -18}
+        - {x: 13.5, y: 31}
+        - {x: 2.5, y: 31}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+    - name: obi_death_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: 11.5, y: 31}
+        - {x: 4.5, y: 31}
+        - {x: 2.5, y: 30}
+        - {x: -13.5, y: 12}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: 11.5, y: 31}
+        - {x: 4.5, y: 31}
+        - {x: 2.5, y: 30}
+        - {x: -13.5, y: 12}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 30}
+        - {x: 11.5, y: 31}
+        - {x: 4.5, y: 31}
+        - {x: 2.5, y: 30}
+        - {x: -13.5, y: 12}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 30}
+        - {x: 5.5, y: 30}
+        - {x: 2.5, y: 27}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -19}
+        - {x: 11.5, y: 25}
+    - name: obi_death_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 28}
+        - {x: -4.5, y: 28}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 1}
+        - {x: 8.5, y: 27}
+        - {x: 2.5, y: 27}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 26}
+        - {x: -0.5, y: 26}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -23}
+        - {x: 10.5, y: 25}
+    - name: obi_death_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 25}
+        - {x: 1.5, y: 25}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -25}
+        - {x: 8.5, y: 20}
+    - name: obi_death_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -20}
+        - {x: 10.5, y: 23}
+        - {x: 1.5, y: 23}
+        - {x: -16.5, y: 8}
+    - name: obi_death_21
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -23}
+        - {x: 10.5, y: 22}
+        - {x: 0.5, y: 22}
+        - {x: -16.5, y: 8}
+    - name: obi_death_22
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 13.5, y: 10}
+        - {x: 6.5, y: 21}
+        - {x: -0.5, y: 21}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_23
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 19}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -24}
+        - {x: 9.5, y: 19}
+    - name: obi_death_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 10.5, y: 10}
+        - {x: 5.5, y: 18}
+        - {x: -1.5, y: 18}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_25
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 11.5, y: 10}
+        - {x: 3.5, y: 17}
+        - {x: -1.5, y: 17}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_26
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 10.5, y: 1}
+        - {x: 9.5, y: 9}
+        - {x: 4.5, y: 16}
+        - {x: -0.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_27
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_28
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_29
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_30
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_31
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_32
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_33
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_34
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    - name: obi_death_35
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -16}
+        - {x: 12.5, y: 1}
+        - {x: 7.5, y: 15}
+        - {x: -0.5, y: 15}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -35}
+        - {x: 16.5, y: -35}
+        - {x: 16.5, y: -28}
+        - {x: 12.5, y: -19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
