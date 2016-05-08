@@ -14,16 +14,20 @@ public class Player : MonoBehaviour, Mortal {
     public int lifes = 5;
     public int nxtLife = 10;
     public AnimationClip death;
+    public AudioClip atk;
+    public AudioClip prtct;
     private int score = 0;
     private Animator animator;
     private float nextAction;
     private States state;
     private SpriteRenderer render;
+    private AudioSource source;
 
 	// Use this for initialization
 	void Start () {
         render = gameObject.GetComponent<SpriteRenderer>();
         animator = gameObject.GetComponent<Animator>();
+        source = gameObject.GetComponent<AudioSource>();
         nextAction = actionRate;
 	}
 
@@ -37,12 +41,14 @@ public class Player : MonoBehaviour, Mortal {
                 animator.SetTrigger("attack");
                 state = States.ATTACK;
                 nextAction = Time.time + actionRate;
+                source.PlayOneShot(atk);
             }
             else if (Input.GetAxis("Protect") > 0)
             {
                 animator.SetTrigger("protect");
                 state = States.PROTECT;
                 nextAction = Time.time + actionRate;
+                source.PlayOneShot(prtct);
             }
         }
 	}

@@ -1,18 +1,19 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &156380
+--- !u!1 &189362
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 4
   m_Component:
-  - 4: {fileID: 495424}
-  - 212: {fileID: 21280430}
-  - 95: {fileID: 9567472}
-  - 61: {fileID: 6180436}
-  - 114: {fileID: 11448124}
-  - 50: {fileID: 5058914}
+  - 4: {fileID: 460742}
+  - 212: {fileID: 21240734}
+  - 95: {fileID: 9563036}
+  - 61: {fileID: 6136438}
+  - 114: {fileID: 11495596}
+  - 50: {fileID: 5038652}
+  - 61: {fileID: 6137198}
   m_Layer: 9
   m_Name: Droid
   m_TagString: Ennemy
@@ -20,25 +21,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &495424
+--- !u!4 &460742
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 156380}
+  m_GameObject: {fileID: 189362}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 8.92, y: -3.26, z: 0}
   m_LocalScale: {x: 5.380135, y: 5.3801346, z: 5.3801346}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!50 &5058914
+--- !u!50 &5038652
 Rigidbody2D:
   serializedVersion: 2
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 156380}
+  m_GameObject: {fileID: 189362}
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
@@ -48,28 +49,42 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
---- !u!61 &6180436
+  m_Constraints: 6
+--- !u!61 &6136438
 BoxCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 156380}
+  m_GameObject: {fileID: 189362}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.036722984, y: 0}
   serializedVersion: 2
-  m_Size: {x: 0.50999993, y: 0.59}
---- !u!95 &9567472
+  m_Size: {x: 0.24477887, y: 0.59}
+--- !u!61 &6137198
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 189362}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.031254385, y: 0}
+  serializedVersion: 2
+  m_Size: {x: 0.12679504, y: 0.59}
+--- !u!95 &9563036
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 156380}
+  m_GameObject: {fileID: 189362}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: b1bd7f795a9b56a428ca5c6507ebdf64, type: 2}
@@ -80,12 +95,12 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11448124
+--- !u!114 &11495596
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 156380}
+  m_GameObject: {fileID: 189362}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d45785688fd88af4b8337b5171c45ad0, type: 3}
@@ -94,12 +109,12 @@ MonoBehaviour:
   focus: {fileID: 0}
   speed: 3
   death: {fileID: 7400000, guid: 27b2312858642294a96091e50128ebf9, type: 2}
---- !u!212 &21280430
+--- !u!212 &21240734
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 156380}
+  m_GameObject: {fileID: 189362}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -133,5 +148,5 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 156380}
+  m_RootGameObject: {fileID: 189362}
   m_IsPrefabParent: 1

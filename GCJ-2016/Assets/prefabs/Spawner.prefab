@@ -39,7 +39,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca022464206f71a43b0234179c22f75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ennemy: {fileID: 0}
+  ennemy: {fileID: 11495596, guid: eee7f65ea9a75dd4db3b89690e48e1db, type: 2}
   focus: {fileID: 0}
 --- !u!1001 &100100000
 Prefab:

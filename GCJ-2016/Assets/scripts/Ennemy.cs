@@ -25,7 +25,9 @@ public class Ennemy : MonoBehaviour, Mortal {
         {
             float distCovered = (Time.time - startTime) * speed;
             float fracJourney = distCovered / distanceLength;
-            transform.position = Vector3.Lerp(start, focus.position, fracJourney);
+            Vector3 lerp = Vector3.Lerp(start, focus.position, fracJourney);
+            lerp = new Vector3(lerp.x, transform.position.y, lerp.z);
+            transform.position = lerp;
         }
 	}
 

@@ -13,6 +13,16 @@ public class Spawner : MonoBehaviour {
         newone.focus = focus;
     }
 
+    public void Clear()
+    {
+        GameObject[] objects = GameObject.FindGameObjectsWithTag("Ennemy");
+
+        foreach (GameObject obj in objects)
+        {
+            obj.GetComponent<Ennemy>().Die();
+        }
+    }
+
     public void Pause()
     {
         GameObject[] objects = GameObject.FindGameObjectsWithTag("Ennemy");
